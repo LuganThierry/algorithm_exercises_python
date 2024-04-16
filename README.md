@@ -1,1 +1,3 @@
-# algorithm_exercises_python
+## Algorithm exercises using Python
+
+[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
